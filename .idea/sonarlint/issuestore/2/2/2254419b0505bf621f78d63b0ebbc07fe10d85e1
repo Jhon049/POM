@@ -1,0 +1,16 @@
+
+S
+java:S3416"8Update this logger to use "ViewPayGradePageCases.class".(Úõüåşÿÿÿÿ
+
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(¨êÂÉ
+P	java:S125"<This block of commented-out lines of code should be removed.(âšd
+V
+java:S1854";Remove this useless assignment to local variable "message".(¼êÖÀşÿÿÿÿ
+’
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(Ä«ìŠúÿÿÿÿ
+;
+java:S2129" Remove this "String" constructor(¼êÖÀşÿÿÿÿ
+’
+java:S1130 "wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(òÑ‰Ìûÿÿÿÿ
+E
+java:S1068"*Remove this unused "LOGGER" private field.(Úõüåşÿÿÿÿ

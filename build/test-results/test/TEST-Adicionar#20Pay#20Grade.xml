@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Adicionar Pay Grade" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-21T05:59:41" hostname="DESKTOP-90O2SEU" time="13.874">
+  <properties/>
+  <testcase name="Adicion de un nuevo Pay Grade" classname="Adicionar Pay Grade" time="13.874"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 101.0.4951.41 (93c720db8323b3ec10d056025ab95c23a31997c9-refs/branch-heads/4951@{#904}) on port 49611
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+may 21, 2022 12:59:46 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+may 21, 2022 12:59:46 A. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+INFORMACIÓN: Found exact CDP implementation for version 101
+]]></system-err>
+</testsuite>
